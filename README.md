@@ -1,2 +1,2 @@
-ApplicationResourcesExample
-===========================
+Application Resources Example
+=============================
